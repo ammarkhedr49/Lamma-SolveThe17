@@ -23,7 +23,6 @@
 ```text
 lamma-egypt/
 ├── public/
-│   └── favicon.ico
 ├── src/
 │   ├── App.jsx          # Main application component & CVRPTW solver
 │   ├── main.jsx         # React entry point
