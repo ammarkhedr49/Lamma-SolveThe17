@@ -37,8 +37,8 @@ lamma-egypt/
 ## 🛠️ Local Development & Deployment
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/lamma-egypt.git
-   cd lamma-egypt
+   git clone https://github.com/ammarkhedr49/Lamma-SolveThe17.git
+   cd Lamma-SolveThe17
    ```
 2. **Install dependencies**:
    ```bash
